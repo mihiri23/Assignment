@@ -1,0 +1,111 @@
+div#main{
+    width: 100%;
+}
+
+div#heading{
+    height: 60px;
+    background-image: url(../images/desha/Capture22_1.PNG);
+    
+}
+
+div#navi{
+    height: 35px;
+}
+
+div#contents{
+    min-height: 500px;
+}
+
+div#footer{
+    height: 50px; text-align: center;
+}
+
+.heading{
+    color: #FFFFFF;
+    font-weight: bold;
+    padding-top: 3px;
+    padding-bottom:3px;
+    padding-left: 50px;
+    font-size: 40px;
+}
+
+.heading-right{
+    text-align: right;
+    padding-top: 15px;
+    padding-right: 10px;
+    color: #fff;
+    font-size: 15px;
+}
+
+img.style1{
+    width: 30px;
+    height: 30px;
+    border-radius: 25px;
+}
+
+.paddinga{
+    padding-top: 2px; 
+    padding-left: 30px;
+    color:#555 ;
+    font-weight: bold;
+}
+
+.texta{
+    text-align: right;
+}
+
+a.a1:link{color:#FFF} a.a1:visited{color: #FFF} a.a1:hover{color: #FFF; text-decoration: none}
+
+.paddinggm{
+    padding-left: 20px;
+    color: #375566;
+    font-weight: bold;
+}
+
+a.logout:hover{
+    color: yellow;
+}
+
+.alig{
+    text-align: center;
+}
+
+.error{
+    color:red;
+}
+.MainMenu {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #2c3b41;
+	height: 30px;
+	text-transform: uppercase;
+        text-align: center;        
+}
+
+.MainMenu a {
+       
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #2c3b41;
+	text-decoration:none;
+}
+
+.MainMenu:hover , .MainMenu:hover a {
+	color:#2c3b41 ;
+	background: linear-gradient(#ffffff,darkgray);
+        padding-top: 5px;
+        
+        
+}
+.paddingu{
+    padding-left: 20px;
+    padding-right: 20px;
+    background: linear-gradient(#ffffff,darkgray);
+}
+.paddingn{
+    padding-left: 20px;
+    padding-right: 20px;  
+}
+/**p:hover{color: blue;background: linear-gradient(darkgray,#ffffff)}*/

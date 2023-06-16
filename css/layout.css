@@ -1,0 +1,14 @@
+div.navi {
+    background: url("../images/1968081.jpg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    padding-top: 40px;
+    background-size: cover;
+}
+
+.cpad{text-align: center; color: #FFFFFF; padding-top: 5px;}
+.jus{text-align:justify }
+.al{text-align: center}
+.upper{text-transform: uppercase}
+.title1{font-size: 30px; color: #FFFFFF}
+
